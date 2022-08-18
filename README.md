@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on react projects!
 
-- ⚡ Fun facts: I'm an competitive powerlifter🏋️‍♂️ and a digital nomad🌏
-
 - 👯 I’m looking to collaborate with other developers
 
-- 🌱 I’m currently learning ways to be a better developer.
+- 🌱 I’m currently learning ways to be a better developer
+
+- ⚡ Fun facts: I'm an competitive powerlifter🏋️‍♂️ and a digital nomad🌏
 
 - 📫 How to reach me **villalugo96@gmail.com**
 
