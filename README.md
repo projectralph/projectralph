@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ways to be a better developer
 
-- ⚡ Fun facts: I'm an competitive powerlifter🏋️‍♂️ and a digital nomad🌏
+- ⚡ Fun facts: I'm a competitive powerlifter🏋️‍♂️ and a digital nomad🌏
 
 - 📫 How to reach me **villalugo96@gmail.com**
 
